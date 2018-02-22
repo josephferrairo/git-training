@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # git-training
+This is the talk about Git
+
